@@ -21,9 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Smallholder adaptation to climate change
-- Food safety in informal markets
-- Field experiments
+- Smallholder agriculture
+- Climate change
+- Food safety
 
 education:
   courses:
@@ -71,7 +71,3 @@ user_groups:
 ---
 
 I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My primary research interest is in the role of risk and uncertainty in decision-making, in the context of agriculture in developing economies. 
-
-I'm interested in the role of risk and uncertainty in economic decision-making, focusing specifically on food and agriculture in developing countries. 
-
-include the consequences of climate change for agriculture in developing countries, food safety in informal markets and improving methods for primary data collection. 
