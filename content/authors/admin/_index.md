@@ -21,21 +21,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Smallholder adaptation to climate change
+- Food safety in informal markets
+- Field experiments
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Economics
+    institution: University of Bordeaux
+    year: In progress
+  - course: MPP in International Policy & Development
+    institution: Georgetown University
+    year: 2011
+  - course: MA in English Literature
+    institution: University of Edinburgh
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,4 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My research instrests include the consequences of climate change for agriculture in developing countries, food safety in informal markets and improving methods for primary data collection. 
+I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My primary research interest is in the role of risk and uncertainty in decision-making, in the context of agriculture in developing economies. 
+
+I'm interested in the role of risk and uncertainty in economic decision-making, focusing specifically on food and agriculture in developing countries. 
+
+include the consequences of climate change for agriculture in developing countries, food safety in informal markets and improving methods for primary data collection. 
