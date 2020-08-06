@@ -70,5 +70,4 @@ user_groups:
 - Visitors
 ---
 
-I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My research instrests include the consequences of climate change for agriculture in developing countries, food safety and improving methods for primary data collection.
-
+I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My research instrests include the consequences of climate change for agriculture in developing countries, food safety in informal markets and improving methods for primary data collection. 
