@@ -18,19 +18,19 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My primary research interests include agriculture, climate change and poverty reduction
 
 interests:
-- Smallholder agriculture
-- Climate change
-- Food safety
+- Smallholder adaptation to climate change
+- Food safety in informal markets
+- Field experiments
 
 education:
   courses:
   - course: PhD in Economics
     institution: University of Bordeaux
     year: In progress
-  - course: MPP in International Policy & Development
+  - course: Master's in Public Policy
     institution: Georgetown University
     year: 2011
   - course: MA in English Literature
@@ -70,4 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a senior research analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My primary research interest is in the role of risk and uncertainty in decision-making, in the context of agriculture in developing economies. 
+I grew up in Glasgow, Scotland and am currently a Senior Research Analyst at the International Food Policy Research Institute and a PhD student in economics at the University of Bordeaux. My primary research interest is in the role of risk and uncertainty in decision-making, in the context of agriculture in developing economies. 
+
+
+If you're interested in any of these topics, or just like to chat about economics, football or the economics of football you can find me on twitter or get in touch using the form below. 
